@@ -1,0 +1,17 @@
+body{background-color:#D90432;}
+
+#conteneur{background-color:#D90432;
+}
+form{ align-content:center;
+       border:2px solid #f1f1f1 ;
+       margin: 0 auto;
+       height:40px;
+       width:20px;
+       padding:100px;
+       border-radius:10px; }
+label{ color:yellow ;
+	font-family: arial;
+        }
+#conteneur1{background-color:#D90432;
+}        
+1
